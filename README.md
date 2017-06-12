@@ -1,6 +1,6 @@
 Projeto para disciplina de LPW, ministrada pelo Prof. Leonardo Soares.
-Dupla : Vanessa FranÁa e Beatriz Bernardo.
-EstÛrias do Usu·rio (Google Drive) :
-Modelos de Interface(Moqups) :
+Dupla : Vanessa Fran√ßa e Beatriz Bernardo.
+Est√≥rias do Usu√°rio (Google Drive) : https://docs.google.com/document/d/1o82POBiq18jGaD1GLajc1VckHY3gXWU2wttqDjMLaG0/edit?usp=sharing
+Modelos de Interface(Moqups) : https://app.moqups.com/beatrizifpe@gmail.com/Z5AoiRbCBf/edit/page/aa9df7b72
 Backlog (Trello): https://trello.com/b/cADCFTpEls
-Diagrama de Classes (Lucid):
+Diagrama de Classes (Lucid): https://www.lucidchart.com/invitations/accept/3709662a-8bef-4314-abb4-c69f102cb8dc
